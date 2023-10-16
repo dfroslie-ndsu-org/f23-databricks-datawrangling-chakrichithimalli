@@ -28,5 +28,6 @@ Ans) Hour with maximum electrical usage is: 21, and total electrical usage was :
 Ans) 234 meters
 
 7. How many Custmer Acount Number / Meter Number / Data Type combinations have some data in the cleaned file but not all?
+Ans) 0
 
 
